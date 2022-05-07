@@ -1,4 +1,4 @@
-# [Tic-Tac-Toe](https://vitorpatzlaff-TicTacToe.netlify.app)
+# [Tic-Tac-Toe](https://vitorpatzlaff-tictactoe.netlify.app)
 ### English
 This project is a Tic-Tac-Toe game. The app has the game logic itself, it has DOM manipulation using Vanilla JavaScript, and it has a script to make the application responsive for mobile.
 ##### Project Language: English
